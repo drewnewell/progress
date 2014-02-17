@@ -11,17 +11,17 @@ git clone https://github.com/drewnewell/progress
 Switch directories
 
 ```
-$ cd progress
+cd progress
 ```
 
-compile coffee script (optional)
+Compile coffee script (optional)
 
 ```
-$ coffee -c progress.coffee
+coffee -c progress.coffee
 ```
 
 Open index.html in your web browser (on Mac OSX)
 
 ```
-$ open index.html
+open index.html
 ```
