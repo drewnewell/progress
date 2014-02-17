@@ -17,7 +17,7 @@ $ cd progress
 compile coffee script (optional)
 
 ```
-$ coffee -c progress.js
+$ coffee -c progress.coffee
 ```
 
 Open index.html in your web browser (on Mac OSX)
